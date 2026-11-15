@@ -1,0 +1,26 @@
+# --- Dados da pesquisa: NUNCA versionar ---
+privado/
+*.xlsx
+!dados_exemplo/planilha_ficticia.xlsx
+*.tsv
+desc_recorte.json
+!dados_exemplo/desc_recorte.json
+s*_evidencias.json
+s*_tabelas.json
+s*b_padroes_*.json
+s25_n3.json
+revisao_i18/
+io_mencoes/
+
+# --- Saídas geradas pelos scripts ---
+*.png
+*.docx
+*.pdf
+saidas/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/

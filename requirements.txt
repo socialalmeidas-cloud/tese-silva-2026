@@ -1,0 +1,9 @@
+# Python 3.11 ou superior (testado em 3.13)
+pandas>=2.2
+numpy>=1.26
+openpyxl>=3.1
+matplotlib>=3.8
+scipy>=1.11
+scikit-learn>=1.4
+wordcloud>=1.9
+adjustText>=1.0
